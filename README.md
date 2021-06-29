@@ -1,8 +1,6 @@
 ### <h2>Hello there, I'm Manish!
   </br>
-  
   <h3> 👨🏻‍💻 &nbsp;About Me</h3>
-
 - 🤔 &nbsp; Aspiring WebDev, hugry to learn.
 - 🎓 &nbsp; CSE at Institute Of Technical Education and Research.
 - 💼 &nbsp; Currently working on DiscordJS and NodeJS.
@@ -10,7 +8,6 @@
 - 🖥 &nbsp; I am also a fps gamer, Counter Strike is ♥
 - ⚡ &nbsp; Fun fact: I know how to exit VIM.
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -31,21 +28,4 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-
 <br/>
-
-<!--
-**einzeLx/einzeLx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
