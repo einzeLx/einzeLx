@@ -9,6 +9,8 @@
 - 🌱 &nbsp; Learning about backend and mobile apps.
 - 🖥 &nbsp; I am also a fps gamer, Counter Strike is ♥
 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
