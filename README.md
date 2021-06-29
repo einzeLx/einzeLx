@@ -8,6 +8,7 @@
 - 💼 &nbsp; Currently working on DiscordJS and NodeJS.
 - 🌱 &nbsp; Learning about backend and mobile apps.
 - 🖥 &nbsp; I am also a fps gamer, Counter Strike is ♥
+- ⚡ &nbsp; Fun fact: I know how to exit VIM.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
