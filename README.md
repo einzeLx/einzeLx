@@ -1,4 +1,4 @@
-### <h2>नमस्ते (Namaste)🙏🏻, I'm Manish!
+### <h2>Hello there, I'm Manish!
   </br>
   
   <h3> 👨🏻‍💻 &nbsp;About Me</h3>
