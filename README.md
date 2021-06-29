@@ -2,12 +2,12 @@
   </br>
   <h3> 👨🏻‍💻 &nbsp;About Me</h3>
   
-- 🤔 &nbsp; Aspiring WebDev, hungry to learn!
-- 🎓 &nbsp; CSE at Institute Of Technical Education and Research.
-- 💼 &nbsp; Currently working on DiscordJS and NodeJS.
-- 🌱 &nbsp; Learning about Backend and Mobile Apps.
+- 🤔 &nbsp; Aspiring WebDev, hungry to learn! 🤓
+- 🎓 &nbsp; CSE at Institute Of Technical Education and Research. 🎓
+- 💼 &nbsp; Currently working on DiscordJS and NodeJS. 📃 
+- 🌱 &nbsp; Learning about Backend and Mobile Apps. 📱
 - 🖥 &nbsp; I am also a fps gamer, Counter Strike is ♥
-- ⚡ &nbsp; Fun fact: I know how to exit VIM.
+- ⚡ &nbsp; Fun fact: I know how to exit VIM. 😛
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
